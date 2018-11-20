@@ -6,7 +6,7 @@
 
 不然会有报错：
 
-ould not load host key: /etc/ssh/ssh_host_rsa_key
+Could not load host key: /etc/ssh/ssh_host_rsa_key
 
 Could not load host key: /etc/ssh/ssh_host_dsa_key
 
